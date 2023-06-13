@@ -1,0 +1,30 @@
+.search-bar {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.search-bar:hover {
+  background-color: #eaeaea;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-bar input[type="text"] {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  border: none;
+  outline: none;
+  padding: 8px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+
