@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function SearchBar({ onSubmit }) {
-  const [term, setTerm] = useState("cars");
+  const [term, setTerm] = useState("");
 
   const handleFormSumbit = (e) => {
     e.preventDefault();
