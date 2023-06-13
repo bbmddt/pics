@@ -1,3 +1,5 @@
+![image](https://github.com/bbmddt/pics/blob/main/pics_demo.gif?raw=true)
+
 # **Random Picture Search App**
 
 This is a React web application that allows you to search for random pictures based on a search term.
